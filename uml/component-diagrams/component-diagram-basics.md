@@ -2,6 +2,10 @@
 
 Component diagrams are used to show the structure of a software system, including how components are connected and interact with each other.
 
+# NOTE:
+Mermaid does not have a specific type of diagram to represent UML component diagrams directly. However, it is possible to use flowcharts and subgraphs in Mermaid to simulate component-based diagrams. The representation might not fully capture UML-specific semantics like ports, interfaces, and dependencies but serves as a good visual aid for component interactions and structure.
+
+
 ## Component Diagram: E-commerce Application
 
 ```mermaid
