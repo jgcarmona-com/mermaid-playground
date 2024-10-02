@@ -1,6 +1,9 @@
 # Mermaid Playground 
 
-This repository contains various examples and guides on how to create and represent different types of UML and C4 diagrams using Mermaid. The purpose is to help visualize software architecture and design through simple and effective diagrams.
+This repository contains various examples and guides on how to create and represent different types of UML and C4 diagrams using Mermaid. The goal is to help visualize software architecture and design through effective diagrams, focusing on teaching how to share software designs clearly. 
+
+This project is part of the [DADS Series](https://www.youtube.com/playlist?list=PLquujPA7EWzNBPpN8vcN4XkvuGxIxYyu2), a YouTube playlist where the author explores the foundations of **Design, Architecture, and Software Development** (DADS) or **Diseño, Arquitectura y Desarrollo de Software**.
+
 
 ## Content
 
@@ -32,9 +35,11 @@ The `c4-models` folder contains:
 
 For a complete guide on Mermaid syntax and diagram types, check the official [Mermaid Documentation](https://mermaid-js.github.io/).
 
+# Try it yourself
+I have to recommend you try these diagrams directly on [Marmaid Chart](https://www.mermaidchart.com/play) because the experience is awesome... 
+
 
 ## About the Author
-
 Juan G Carmona is a Cloud and Software Architect, passionate about software design, architecture, and the development of scalable solutions. With over two decades of experience, he combines his deep technical knowledge with a commitment to continuous learning and sharing through content creation.
 
 You can follow his work and connect with him on the following platforms:
