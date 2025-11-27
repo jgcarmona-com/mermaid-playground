@@ -37,15 +37,3 @@ For a complete guide on Mermaid syntax and diagram types, check the official [Me
 
 # Try it yourself
 I have to recommend you try these diagrams directly on [Marmaid Chart](https://www.mermaidchart.com/play) because the experience is awesome... 
-
-
-## About the Author
-Juan G Carmona is a Cloud and Software Architect, passionate about software design, architecture, and the development of scalable solutions. With over two decades of experience, he combines his deep technical knowledge with a commitment to continuous learning and sharing through content creation.
-
-You can follow his work and connect with him on the following platforms:
-
-- [YouTube](https://www.youtube.com/@jgcarmona): Technical tutorials, guides, and insights on software architecture and cloud solutions.
-- [LinkedIn](https://www.linkedin.com/in/juangarciacarmona/): Professional profile with articles, updates, and networking opportunities.
-- [Personal Website](https://jgcarmona.com): Explore more about his projects, services, and blog.
-
-For any inquiries, feel free to reach out via [email](mailto:juan@jgcarmona.com).
